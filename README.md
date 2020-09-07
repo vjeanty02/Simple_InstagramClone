@@ -2,7 +2,7 @@
 
 **InstaClone** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **X** hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
@@ -13,6 +13,11 @@ The following **required** functionality is completed:
 - [x] The current signed in user is persisted across app restarts.
 - [x] User can take a photo, add a caption, and post it to "Instagram".
 
+- [x] User can view the last 20 posts submitted to "Instagram".
+- [x] User can pull to refresh the last 20 posts submitted to "Instagram".
+- [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+
+
 The following **optional** features are implemented:
 
 - [x] User sees app icon in home screen and styled bottom navigation view
@@ -21,7 +26,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Style the feed to look like the real Instagram feed.
 
 ## Video Walkthrough
 
