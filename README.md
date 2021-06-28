@@ -1,3 +1,5 @@
+
+
 # Project 3 - *InstaClone*
 
 **InstaClone** is a photo sharing app similar to Instagram but using Parse as its backend.
@@ -32,9 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/aEoq05S.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+https://user-images.githubusercontent.com/61328054/123586342-8fb3ae00-d7b2-11eb-8b68-7a5c392b0628.mp4
 
 ## Notes
 
@@ -47,7 +47,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [CodePath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
