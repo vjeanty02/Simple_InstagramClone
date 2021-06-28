@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://user-images.githubusercontent.com/61328054/123586342-8fb3ae00-d7b2-11eb-8b68-7a5c392b0628.mp4
+https://user-images.githubusercontent.com/61328054/123586623-018bf780-d7b3-11eb-9e51-1ddbc5e29ef2.mp4
 
 ## Notes
 
